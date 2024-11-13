@@ -38,13 +38,13 @@ Multi-Mind Chatbot is an AI-powered chatbot capable of generating both text-base
     streamlit run app.py
 <!-- code end-->
 ### 2. Text Generation:
-    - Enter a text prompt in the "Input Prompt for Text Generation" field.
-    - Optionally upload an image to provide additional context.
-    - Click Generate Text to view the generated response.
+- Enter a text prompt in the "Input Prompt for Text Generation" field.
+- Optionally upload an image to provide additional context.
+- Click Generate Text to view the generated response.
 ### 3. Image Generation:
-    - Enter a descriptive prompt in the "Input Prompt for Image Generation" field.
-    - Optionally upload an image to influence the generated output.
-    - Click Generate Image to view the generated artwork.
+- Enter a descriptive prompt in the "Input Prompt for Image Generation" field.
+- Optionally upload an image to influence the generated output.
+- Click Generate Image to view the generated artwork.
 
 ## Project Structure
 
